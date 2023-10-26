@@ -1,0 +1,2 @@
+# picture
+save blog picture
